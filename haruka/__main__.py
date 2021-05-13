@@ -20,24 +20,24 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hello {}, my name is [PATRICIA](https://telegra.ph/file/443a0e87e701d9f2f9451.jpg)
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players
+I'm group manager and Spam protector bot for your group
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-This Bot is Made By [Jayant](t.me/jayantkageri) from the Source of Haruka Aya, Saitama Robot and Marie
+This Bot is Made By [BLAZE](t.me/piroXpower) from the Source made by Patrician
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/TGGroupManager_bot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/patriciaX_Robot?startgroup=true).
 """
 DONATE_STRING = """So you want to donate? Amazing!
 It took a lot of work for my creator to get me to where I am now - so if you have some money to spare, and want to show your support; Donate!
-After all, server fees don't pay themselves - so every little helps! All donation money goes straight to funding the VPS, and of course, boosting morale - always nice to see my work is appreciated :) Contact @jayantkageri to Know How to Donate"""
+After all, server fees don't pay themselves - so every little helps! All donation money goes straight to funding the VPS, and of course, boosting morale - always nice to see my work is appreciated :) Contact @patricia_support to Know How to Donate"""
 """
 
 IMPORTED = {}
